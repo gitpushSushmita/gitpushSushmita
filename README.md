@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Databases**
 
-- 💬 Ask me about **react, Java, SQL**
+- 💬 Ask me about **React, Java, SQL, LIMS, FinTech**
 
 - 📫 How to reach me **sushmitapaul388@gmail.com**
 
