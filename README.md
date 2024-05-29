@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitpushsushmita&label=Profile%20views&color=0e75b6&style=flat" alt="gitpushsushmita" /> </p>
 
-- 🔭 I’m currently working on **Portfolio**
+- 🔭 I’m currently working on **Big Data Projects**
 
-- 🤝 I’m looking for help with **Databases**
+- 💬 Ask me about **Java, SQL, Python, AWS, ETL**
 
-- 💬 Ask me about **React, Java, SQL, LIMS, FinTech**
-
-- 📫 How to reach me **sushmitapaul388@gmail.com**
+- 📫 How to reach me **Shoot a mail at sushmitapaul.india@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
